@@ -1,1 +1,1 @@
-# GUI application to manage all your passwords for different websites.
+GUI application to manage all your passwords for different websites.
